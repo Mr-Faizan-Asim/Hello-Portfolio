@@ -226,8 +226,8 @@ img {
 .home__img {
   position: absolute;
   right: 0;
-  bottom: 0;
-  width: 260px;
+  bottom: 100;
+  width: 360px;
 }
 
 .home__blob {
@@ -235,6 +235,7 @@ img {
 }
 
 .home__blob-img {
+  height: 480px;
   width: 360px;
 }
 
